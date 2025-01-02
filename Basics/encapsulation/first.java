@@ -1,4 +1,4 @@
-package encapsulation;
+package Basics.encapsulation;
 
 class Movie{
     private int duration;
@@ -23,7 +23,7 @@ class Movie{
         return Name;
     }
 }
-public class encapsulation {
+public class first {
     public static void main(String[] args){
         Movie objofMovie = new Movie();
         objofMovie.setDuration(120); //giving the duration to the private 

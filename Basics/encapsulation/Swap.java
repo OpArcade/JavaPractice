@@ -1,4 +1,4 @@
-package encapsulation;
+package Basics.encapsulation;
 
 class Movie{
     private int duration;
