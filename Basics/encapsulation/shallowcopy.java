@@ -1,7 +1,6 @@
 package Basics.encapsulation;
 
-import java.util.*;
-import java.io.*;
+
 
 class Movie{
     int duration = 150;
