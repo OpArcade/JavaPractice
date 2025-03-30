@@ -26,7 +26,7 @@ class Movie{
 public class first {
     public static void main(String[] args){
         Movie objofMovie = new Movie();
-        objofMovie.setDuration(120); //giving the duration to the private 
+        objofMovie.setDuration( 120); //giving the duration to the private 
         objofMovie.setName("Loki"); //giving the duration to the private 
 
         System.out.println("the name of movis is " + objofMovie.getName() + " and the duration is " + objofMovie.getDuration() + "sec.");

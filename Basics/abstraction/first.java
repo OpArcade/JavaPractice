@@ -19,12 +19,12 @@ class Dog extends Animal{
     }
 }
 public class first {
-  
-  public static void main(String args[]){
 
-      Horse horse = new Horse();
-      Dog dog = new Dog();
-      dog.walk();    
-      horse.walk();
+    public static void main(String args[]){
+
+    Horse horse = new Horse();
+    Dog dog = new Dog();
+    dog.walk();
+    horse.walk();
     }
 }
